@@ -1,0 +1,37 @@
+_repo: The-Poetical-Works-of-Robert-Bridges_37804
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37804-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bridges, Robert
+    aliases:
+    - Bridges, R. (Robert)
+    - Bridges, Robert Seymour
+    birthdate: 1844
+    deathdate: 1930
+    gutenberg_agent_id: '5418'
+    url: http://www.gutenberg.org/2009/agents/5418
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Bridges
+description: v. 1. Prometheus the firegiver.- Eros and Psyche.- The growth of love.-
+  Notes.- v. 2. Shorter poems.- New poems.- Notes.- v. 3. The first part of Nero.-
+  Achilles in Scyros.- Notes.- v. 4. Palicio.- The return of Ulysses.- Notes.- v.
+  5. The Christian captives.- Humours of the court.- Notes.- v. 6. The feast of Bacchus.-
+  Second part of the history of Nero.- Notes.
+gutenberg_issued: '2011-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37804'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry'
+tableOfContents: 'Prometheus the firegiver: a mask in the Greek manner -- Demeter:
+  a mask -- Eros and Psyche -- The growth of love -- Shorter poems -- New poems --
+  Later poems -- Poems in classical prosody.'
+title: The Poetical Works of Robert Bridges
+url: http://www.gutenberg.org/ebooks/37804
