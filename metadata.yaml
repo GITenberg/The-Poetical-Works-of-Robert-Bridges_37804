@@ -32,6 +32,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PR'
 - !lcsh 'English poetry'
+- GITenberg
 tableOfContents: 'Prometheus the firegiver: a mask in the Greek manner -- Demeter:
   a mask -- Eros and Psyche -- The growth of love -- Shorter poems -- New poems --
   Later poems -- Poems in classical prosody.'
